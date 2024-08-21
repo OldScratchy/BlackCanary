@@ -1,0 +1,9 @@
+[logging]
+level = DEBUG
+format = %(asctime)s - %(message)s
+
+[network]
+gateway = <IPv4 address>
+
+[settings]
+interval = 300
